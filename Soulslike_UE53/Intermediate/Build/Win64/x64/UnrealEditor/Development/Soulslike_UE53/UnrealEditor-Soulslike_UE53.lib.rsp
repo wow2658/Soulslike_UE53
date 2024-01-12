@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Soulslike_UE53.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProject2024\Soulslike_UE53\Intermediate\Build\Win64\x64\Soulslike_UE53Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\UnrealProject2024\Soulslike_UE53\Intermediate\Build\Win64\x64\UnrealEditor\Development\Soulslike_UE53\Soulslike_UE53.cpp.obj"
+"D:\UnrealProject2024\Soulslike_UE53\Intermediate\Build\Win64\x64\UnrealEditor\Development\Soulslike_UE53\Default.rc2.res"
+/OUT:"D:\UnrealProject2024\Soulslike_UE53\Intermediate\Build\Win64\x64\UnrealEditor\Development\Soulslike_UE53\UnrealEditor-Soulslike_UE53.lib"
