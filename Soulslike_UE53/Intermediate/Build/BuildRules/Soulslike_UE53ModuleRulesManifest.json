@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\UnrealProject2024\\Soulslike_UE53\\Source\\Soulslike_UE53\\Soulslike_UE53.Build.cs",
-		"D:\\UnrealProject2024\\Soulslike_UE53\\Source\\Soulslike_UE53.Target.cs",
-		"D:\\UnrealProject2024\\Soulslike_UE53\\Source\\Soulslike_UE53Editor.Target.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
