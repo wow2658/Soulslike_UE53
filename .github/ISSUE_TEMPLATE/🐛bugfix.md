@@ -7,20 +7,16 @@ assignees: wow2658
 
 ---
 
-### Problem 
+# Problem 
 <!-- Briefly describe what bug you encountered -->
 
-### Progress
-- [ ] Self-Resolution <!-- Bug identified and reproduced -->
-- [ ] Exploring <!-- Confirmed the issue in the source code-->
-- [ ] Stumped<!-- Completed fixes-->
-- [ ] Done <!-- Testing and code review-->
+# Trobleshooting
 
-### Solution
-- [ ] To do 1 <!-- How you plan to resolve this issue -->
-- [ ] To do 2
-- [ ] To do 3
+<!-- Describe your various attempts and failed attempts to solve the problem -->
 
+# Resolution
 
-### Estimated time
+<!-- Describe how you finally succeeded in solving the problem -->
+
+# Estimated time
 <!-- Estimated time to resolve the bug-->
