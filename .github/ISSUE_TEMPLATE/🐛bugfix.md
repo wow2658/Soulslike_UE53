@@ -8,6 +8,7 @@ assignees: wow2658
 ---
 
 # Problem 
+
 <!-- Briefly describe what bug you encountered -->
 
 # Trobleshooting
@@ -19,4 +20,5 @@ assignees: wow2658
 <!-- Describe how you finally succeeded in solving the problem -->
 
 # Estimated time
+
 <!-- Estimated time to resolve the bug-->
