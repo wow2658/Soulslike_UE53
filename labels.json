@@ -1,0 +1,37 @@
+[
+  {
+    "name": "⚙ Setting",
+    "color": "686382",
+    "description": "개발 환경 설정 및 수정"
+  },
+  {
+    "name": "🚀 Feature",
+    "color": "0B84AA",
+    "description": "기능 개발 및 개선"
+  },
+  {
+    "name": "🐛 Bugfix",
+    "color": "EE1273",
+    "description": "디버깅 관련"
+  },
+  {
+    "name": "💡 Test",
+    "color": "2A587B",
+    "description": "테스트 작업"
+  },
+  {
+    "name": "🛠 Refactor",
+    "color": "4B6F5E",
+    "description": "리팩토링 관련"
+  },
+  {
+    "name": "📃 Docs",
+    "color": "0052CC",
+    "description": "문서 작성 및 수정"
+  },
+  {
+    "name": "✨ Chore",
+    "color": "1F1448",
+    "description": "코드 작성 외 작업"
+  }
+]
