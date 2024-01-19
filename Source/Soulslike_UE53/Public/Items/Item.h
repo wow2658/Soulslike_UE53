@@ -20,4 +20,13 @@ protected:
 public:	
 	virtual void Tick(float DeltaTime) override;
 
+	template<typename T>
+	T Avg(T First, T Second);
+
 };
+
+template<typename T>
+inline T AItem::Avg(T First, T Second)
+{
+	return T();
+}
